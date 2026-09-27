@@ -1,0 +1,64 @@
+h1 {font-family: 'Helvetica Neue', sans-serif;
+    font-size: 32px;
+    color: blue;
+    margin-bottom: 20px;
+}
+
+#LoremKecil {font-family: 'Courier New', monospace;
+    font-size: 14px;
+    color: #618961;
+    margin-bottom: 10px;
+}
+
+.iniP {font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+.Warna {color: #FF5733;
+}
+
+h3, h4 {font-family: 'Arial', sans-serif;
+    font-size: 20px;
+    color: #914418;
+    margin-bottom: 15px;
+}
+
+#Heading5 {background-color: #acab11;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Verdana', sans-serif;
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.TextProperty {Text-align: justify;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 2px #888888;
+    line-height: 1.6;
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    color: #444444;
+    margin-bottom: 15px;
+}
+
+.div {width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #cccccc;
+}
+.Container {background-color: greenyellow;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+body {background-image: url('Ini Background.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
